@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<localization>
+
+    <english>
+        <title value='GRADE POINT AVERAGE'/>
+        <info value='Enter login and password below to calculate the GPA'/>
+        <login value='Login: '/>
+        <password value='Password: '/>
+        <button value='CALCULATE'/>
+        <started value='Calculating...'/>
+        <err0 value='Incorrect data'/>
+        <err1 value='Enter data!'/>
+        <err2 value='Check internet connection'/>
+        <success value='Your point average: '/>
+    </english>
+
+    <russian>
+        <title value='СРЕДНИЙ БАЛЛ'/>
+        <info value='Введите логин и пароль ниже для вычисления балла'/>
+        <login value='Логин: '/>
+        <password value='Пароль: '/>
+        <button value='ВЫЧИСЛИТЬ'/>
+        <started value='Вычисляем...'/>
+        <err0 value='Данные введены неверно'/>
+        <err1 value='Введите данные!'/>
+        <err2 value='Проверьте подключение к интернету'/>
+        <success value='Ваш средний балл: '/>
+    </russian>
+    
+</localization>
